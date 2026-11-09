@@ -1,6 +1,6 @@
 # Hi, I'm Oindrila 👋
 
-AI Web Developer | Prompt Engineering | Frontend Development
+Python  | AI Web Developer | Prompt Engineering |
 
 ## Skills
 Python • JavaScript • Generative AI • APIs • HTML • CSS • SQL
