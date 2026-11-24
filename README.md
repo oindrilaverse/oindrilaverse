@@ -3,7 +3,8 @@
 Python  | AI Web Developer | Prompt Engineering |
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=py,vercel,js,html,css,oracle,sql)
+![My Skills](https://skillicons.dev/icons?i=py,vercel,js,html,css,git,mysql)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 
 ## Featured Projects
