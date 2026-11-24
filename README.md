@@ -1,6 +1,6 @@
 # Hi, I'm Oindrila 👋
 
-Python  | AI Web Developer | Prompt Engineering |
+MCA ‘28 (TMSL) and 2026 BCA graduate from KIIT University. A full-stack developer and tech enthusiast with hands-on experience building responsive  web applications
 
 ## Skills
 ![My Skills](https://skillicons.dev/icons?i=py,vercel,js,html,css,git,mysql)
