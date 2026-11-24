@@ -3,8 +3,8 @@
 Python  | AI Web Developer | Prompt Engineering |
 
 ## Skills
- • Generative AI • APIs • HTML • CSS • SQL 
-![My Skills](https://skillicons.dev/icons?i=py,vercel,js,html,css,oracle)
+ • Generative AI • APIs • SQL 
+![My Skills](https://skillicons.dev/icons?i=py,vercel,js,html,css,oracle,sql)
 
 ## Featured Projects
 - HireReady AI
